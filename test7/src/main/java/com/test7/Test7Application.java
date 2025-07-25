@@ -8,6 +8,7 @@ public class Test7Application {
 
 	public static void main(String[] args) {
 		int x = 100;
+		int y = 200;
 		SpringApplication.run(Test7Application.class, args);
 	}
 
